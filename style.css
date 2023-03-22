@@ -1,0 +1,533 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+li{
+    color: white;
+    display: inline;
+    padding: 13px;
+    font-weight: bold;
+    font-size: 17px;
+}
+#btn{
+    color:white;
+    font-size: 15px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-color:red;
+    background-color: red;
+    border-radius: 10px;
+    border: none;
+}
+#navigatiobar{
+    display: flex;
+    padding: 20px;
+}
+#navbar{
+    margin-left: 90px;
+    margin-top: 28px;
+}
+#orderbtn{
+    margin-left: 350px;
+    margin-top: 5px;
+}
+hr{
+    height: 1px;
+    background-color: red;
+    border: none;
+}
+#picbanner{
+    padding: 40px 0px 40px 0px;
+    height: 290px;
+    width: 100%;
+
+}
+#background{
+    width: 100%;
+}
+h1{
+    color: white;
+    background-position: 10px;
+    position: absolute;
+    bottom: 70px;
+    left: 400px;
+    background-color: transparent;
+    font-size: 60px;
+    letter-spacing: 20px;
+}
+#background #background{
+    width: 100%;
+    height: 650px;
+}
+#saltu{
+    width: 18%;
+    position: absolute;
+    left: 570px;
+    bottom: 2px;
+    background-color: transparent;
+}
+#imgsaltuwel p
+{
+    position: absolute;
+    bottom: -30px;
+    left: 540px;
+    background-color: transparent;
+    color: white;
+    letter-spacing: 20px;
+}
+#brands h2{
+    color: white;
+    position: absolute;
+    left: 550px;
+    bottom: -110px;
+    background-color: transparent;
+    font-size: 40px;
+}
+#brands p{
+    background-color: transparent;
+    position:absolute;
+    left: 430px;
+    bottom: -140px;
+    color: white;
+}
+#brand1 img{
+    width: 150px;
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0px 0px 27px;
+}
+#brand1{
+    background-color: white;
+    border: 1px solid red;
+    height: 170px;
+    width: 270px;
+    border-radius: 10px;
+    margin: 10px;
+}
+#brands2{
+    background-color: white;
+    border: 1px solid red;
+    height: 170px;
+    width: 270px;
+    border-radius: 10px;
+    margin: 10px;
+}
+#brands3
+    {
+    background-color: white;
+    border: 1px solid red;
+    padding: 10px;
+    background-color: white;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 270px;
+}
+#brands2 img{
+    width: 150px;
+    background-color: white;
+    padding: 30px;
+    margin: 20px 0px 0px 27px;
+}
+#brands3 img{
+    width: 150px; 
+    background-color: white;
+    padding: 20px;  
+    margin: 20px 0px 0px 27px;
+}
+#brands_conatiner{
+    background-color: transparent;
+    display: flex;
+    position: absolute;
+    left: 260px;
+    bottom: -390px;
+}
+#topimg img{
+    width: 300px;
+    height: 120px;
+    margin-left: 59px;
+}
+#salts_resturant img{
+   margin-left: -1%;
+   margin-top: 30px;
+}
+#salts_resturant #main{
+    color: white;
+    margin-left: -10%;
+    font-size: 70px;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#salts_resturant p{
+    color: white;
+    margin-left: -18%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+#containerfrenchies{
+   margin-left: 35%;
+   margin-top: 25px;
+}
+#container_islamabad img{
+    height: 225px;
+    width: 400px;
+    border: 4px solid white;
+}
+
+#container_loaction{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#container_islamabad{
+    position:relative;
+    margin: 10px;
+}
+#container_rawalpindi{
+    position: relative;
+    margin: 10px;
+}
+#container_bhawal{
+     position: relative;
+     margin: 10px;  
+}
+#container_rawalpindi p{
+    position: absolute;
+    left: 40px;
+    bottom: 130px;
+    color: white;
+    background-color: transparent;
+}
+#container_islamabad p{
+    position: absolute;
+    left: 40px;
+    bottom: 130px;
+    color: white;
+    background-color: transparent;
+}
+#container_bhawal p{
+    position: absolute;
+    left: 40px;
+    bottom: 130px;
+    color: white;
+    background-color: transparent;
+}
+#container_islamabad h3{
+    position: absolute;
+    left: 40px;
+    bottom: 180px;
+    color:white;
+    background-color:transparent;
+    font-size: 30px;
+}
+
+#container_rawalpindi h3{
+    position: absolute;
+    left: 40px;
+    bottom: 180px;
+    color:white;
+    background-color:transparent;
+    font-size: 30px;
+}
+#container_bhawal h3{
+    position: absolute;
+    left: 40px;
+    bottom: 180px;
+    color:white;
+    background-color:transparent;
+    font-size: 30px;
+}
+
+#container_islamabad h4{
+    position: absolute;
+    left: 120px;
+    bottom: 100px;
+    color:white;
+    background-color:transparent;
+    font-size: 15px;
+}
+#container_rawalpindi h4{
+    position: absolute;
+    left: 120px;
+    bottom: 100px;
+    color:white;
+    background-color:transparent;
+    font-size: 15px;
+}
+#container_bhawal h4{
+    position: absolute;
+    left: 120px;
+    bottom: 100px;
+    color:white;
+    background-color:transparent;
+    font-size: 15px;
+}
+#container_rawalpindi img{
+    border: 4px solid white;
+    height: 225px;
+    width: 400px;
+}
+#container_bhawal img{
+    width: 400px;
+    border: 4px solid white;
+}
+#container_ofExpress #motodrenschise{
+    color: white;
+}
+#motorway1 img{
+    height: 200px;
+    width: 360px;
+ 
+}
+#motorway2 img{
+    height: 200px;
+    width: 360px;
+    margin-left: 5px;
+  
+}
+#motorway3 img{
+    height: 200px;
+    width: 360px;
+}
+#motorway1 #location{
+    height: 70px;
+    width: 50px;
+    position: absolute;
+    bottom: -1500px;
+    left:440px;
+    background-color: transparent;
+}
+#motorway2 #location{
+    height: 70px;
+    width: 50px;
+    position: absolute;
+    bottom: 1px;
+    left: 140px;
+    background-color: transparent;
+}
+#otorway1{
+    position: relative;
+}
+#motorway1 h2,p,h5{
+    color: white;
+}
+#motorway1 h2{
+    position: absolute;
+    bottom: -1373px;
+    background-color: transparent;
+    font-size: 24px;
+    margin-left: 10px;
+}
+#motorway1 p{
+    position: absolute;
+    bottom: -1400px;
+    background-color: transparent;
+    font-size: 20px;
+    margin-left: 50px;
+}
+#motorway1 h5{
+    position: absolute;
+    bottom: -1430px;
+    background-color: transparent;
+    font-size: 20px;
+    margin-left: 90px;
+}
+#motorway2 {
+    position: relative;
+}
+#motorway2 h2{
+    position: absolute;
+    bottom: 130px;
+    background-color: transparent;
+    font-size: 24px;
+    margin-left: 10px;
+    color: white;
+}
+#motorway2 p{
+    position: absolute;
+    bottom: 100px;
+    background-color: transparent;
+    font-size: 20px;
+    margin-left: 50px;
+}
+#motorway2 h5{
+    position: absolute;
+    bottom: 70px;
+    background-color: transparent;
+    font-size: 20px;
+    margin-left: 90px;
+}
+/*#motorway2 h2{
+    position: absolute;
+    bottom: -1260px;
+    background-color: transparent;
+    font-size: 24px;
+    margin-left: 10px;
+}*/
+#motodrenschise{
+    font-size: 45px;
+    margin-left: 400px; 
+    margin-top: 30px;       
+    color: red;
+}
+#container_ofExpress{
+    display: flex;
+    margin: 30px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+#juranwala{
+    background-color: white;
+    border: 2px solid red;
+    width: 30%;
+    height: 35vh;
+    margin: 5px;
+    margin-top: 10px;
+}
+#Lahore{
+    background-color: white;
+    border: 2px solid red;
+    width: 33%;
+    height: 35vh;
+    margin: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#Sheikarpure{
+    background-color: white;
+    border: 2px solid red;
+    width: 33%;
+    height: 35vh;
+    margin: 6px;
+    margin-left: 60px;
+
+}
+#sharuq{
+    background-color: white;
+    border: 2px solid red;
+    width: 33%;
+    height: 35vh;
+    margin: 10px;
+
+}
+#juranwala img{
+    width: 20%;
+    height: 15vh;
+    background-color: transparent;
+    margin-left: 110px;
+}
+#sharuq img{
+    width: 20%;
+    height: 15vh;
+    background-color: transparent;
+    margin-left: 110px;
+}
+#kmoke{
+    background-color: white;
+    border: 2px solid red;
+    width: 33%;
+    height: 35vh;
+    margin: 5px;
+}
+#kmoke img{
+    width: 20%;
+    height: 15vh;
+    background-color: transparent;
+    margin-left: 110px;
+}
+#Lahore img{
+    width: 20%;
+    height: 15vh;
+    background-color: transparent;
+    margin-left: 110px;
+}
+#Sheikarpure img{
+    width: 20%;
+    height: 15vh;
+    background-color: transparent;
+    margin-left: 110px;
+}
+#kmoke h3{
+    background-color: transparent;
+    margin: 0px;
+}
+#Sheikarpure h3{
+    background-color: transparent;
+    margin: 0px;
+}
+#sharuq h3{
+    background-color: transparent;
+    margin: 0px;
+}
+#Lahore h3{
+    background-color: transparent;
+    margin: 0px;
+}
+#juranwala h3{
+    background-color: transparent;
+    margin: 0px;
+}
+#inercontainer{
+    margin:50px 0px 0px 50px;
+    background-color: transparent;
+}
+#container_open_pepper_heading h2{
+    color: red;
+    background-color: transparent;
+    font-size: 46px;
+    text-align: center;
+    margin-top: 60px;
+}
+#container_open_pepper_heading h4{
+    color: white;
+    background-color: transparent;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+#container_open_pepper{
+    display: flex;
+    margin-left: 10px;
+}
+#lower_container{
+    display: flex;
+    margin: 30px;
+    padding-left: 200px;
+}
+#headinfvillage h2{
+    color: red;
+    background-color: transparent;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+#saltvillage{
+    margin: auto 10px;
+    margin-left: 300px;
+}
+#inercontainervillage{
+    background-color: white;
+    border: 2px solid red;
+    width: 60%;
+    height: 35vh;
+    margin: 10px;
+    margin:50px 0px 0px 50px;
+    background-color: white;
+}
+#inercontainervillage img{
+    width: 13%;
+    height: 15vh;
+    background-color: transparent;
+    margin-left: 230px;  
+    margin-top: 40px; 
+}
+#inercontainervillage p{
+    background-color:transparent;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 80px;
+}
